@@ -212,11 +212,14 @@ table(pcir_sex)
 
 summary(pcir_tcs, by = pcir_sex)
 
+
+
+```
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 #colour distances can be calculated with the colourspace model, but this are 
 #euclidean distances and should not be interpreted as perceptual distances
 
 coldist(pcir_tcs, subset = c("m", "h"))
-
 ```
 
 2) Receptor-noice limited model (RNL, Vorobyev and Osorio 1998)
