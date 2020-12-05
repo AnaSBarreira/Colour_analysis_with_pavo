@@ -1,0 +1,9 @@
+Species;Patch;;ind #;AMNH;Subespecie;Sex;Spectra code
+Passerina ciris;forehead;1;1;365222;ciris;male;pcis_c_m1
+;head;2;2;365266;ciris;female;pcis_c_h1
+;back;3;3;365273;ciris;male;pcis_c_m2
+;throat;4;4;761052;ciris;female;pcis_c_h2
+;chest;5;5;54939;pallidior;male;pcis_p_m3
+;belly;6;6;365278;pallidior;female;pcis_p_h3
+;;;7;761057;ciris;male;pcis_c_m4
+;;;8;761058;ciris;female;pcis_c_h4
